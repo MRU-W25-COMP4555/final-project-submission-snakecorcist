@@ -9,9 +9,10 @@ https://drive.google.com/file/d/1-rSAWVwNFL0YkJC2yzXhlx0nczJJxiGc/view?usp=drive
 Download and unzip the file, the application will be named "Snakecersist", open it and play!
 
 CONTROLS:
-D - Move Right
-A - Move Left
-Space - Jump
-Left Mouse Button - Melee Attack
-Right Mouse Button - Ranged Attack
-T - Interaction Key (for dialogue NPC’s)
+
+    D - Move Right
+    A - Move Left
+    Space - Jump
+    Left Mouse Button - Melee Attack
+    Right Mouse Button - Ranged Attack
+    T - Interaction Key (for dialogue NPC’s)
