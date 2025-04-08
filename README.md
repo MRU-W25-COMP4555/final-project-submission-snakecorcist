@@ -3,6 +3,11 @@ Snakexorcist is a 2D action platformer rooted in Chinese mythology. The game is 
 
 Players must navigate through three levels: the castle exterior, the castle interior, and the boss battle. The first level takes place outside of the castle, where Xu Shilin must battle enemies such as badger and eagle spirits to break the seal protecting the castle. Once Xu Shilin can reach and unlock the castle gates, he will begin the second level which takes place within the interior. He must ascend through many platforms, encountering various challenges, including bat and mice spirits, to reach the top and confront Fahai in a boss battle. Dialogue will be present throughout the game, providing important context to advance the story. 
 
+LINK TO GAME: 
+https://drive.google.com/file/d/1-rSAWVwNFL0YkJC2yzXhlx0nczJJxiGc/view?usp=drive_link
+
+Download and unzip the file, the application will be named "Snakecersist", open it and play!
+
 CONTROLS:
 D - Move Right
 A - Move Left
